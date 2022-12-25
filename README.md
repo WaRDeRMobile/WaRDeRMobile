@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @WaRDeRMobile
-- 🌱 I’m currently learning Java/Kotlin stack
+- 🌱 I’m currently work in Java/Kotlin stack
